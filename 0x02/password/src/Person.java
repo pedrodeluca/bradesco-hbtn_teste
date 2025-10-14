@@ -1,5 +1,3 @@
-package com.techcamps.junit;
-
 public class Person {
 
     private String user;
